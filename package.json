@@ -1,0 +1,24 @@
+{
+  "name": "es6-generators",
+  "version": "1.0.0",
+  "description": "es6 generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ulukfuni/es6-generators.git"
+  },
+  "keywords": [
+    "es6",
+    "generator",
+    "nodejs"
+  ],
+  "author": "Viet Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulukfuni/es6-generators/issues"
+  },
+  "homepage": "https://github.com/ulukfuni/es6-generators#readme"
+}
